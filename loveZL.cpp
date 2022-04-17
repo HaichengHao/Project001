@@ -1,4 +1,4 @@
-//
+﻿//
 //#include <stdio.h>
 //#include <math.h>
 //
@@ -40,6 +40,6 @@
 //        }
 //        putchar('\n');
 //    }
-//    printf("\n�����أ�����˵:Happy birthday my darling ,i love you\n��ӭ����21��ĵ�һ�� ");
+//    printf("\n首先呢，我想说:Happy birthday my darling ,i love you\n欢迎来到21岁的第一天\n时光漫漫，生活不停推着我们向前\n我没有什么大的理想，只希望以后的生活都能够有你在身旁。\n和你在一起，感觉做什么事情都有奔头，每天都能够有动力\n生活不总是美好的，可是有你在身边，总感觉美好的人生就是这样的，有了你，我就能够很快乐。\n Your future starts right here,right now,not tomorrow\n\t最后，生日快乐哦（づ￣3￣）づ╭❤️～（づ￣3￣）づ╭❤️～（づ￣3￣）づ╭❤️～（づ￣3￣）づ╭❤️～\n\3t你的小宝贝\n\3t郝海程\n\3t2022.4.15(农历三月十五)\n\3t(❤️ ω ❤️) ");
 //    getchar();
 //}

@@ -139,19 +139,37 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1(常量）const01.cpp" />
+    <ClCompile Include="2.(define定义常量).cpp" />
+    <ClCompile Include="3（const定义常量).cpp" />
+    <ClCompile Include="4arithmetic(算数运算符).cpp" />
+    <ClCompile Include="5(operator关系运算符).cpp" />
     <ClCompile Include="booldemo.cpp" />
     <ClCompile Include="chardemo.cpp" />
     <ClCompile Include="demo1.cpp" />
+    <ClCompile Include="exercise03.cpp" />
     <ClCompile Include="floatdouble.cpp" />
+    <ClCompile Include="homework.cpp" />
     <ClCompile Include="intdemo.cpp" />
     <ClCompile Include="intdetail.cpp" />
-    <ClCompile Include="just for my ZL.cpp" />
+    <ClCompile Include="lovecl.cpp" />
+    <ClCompile Include="loveZL.cpp" />
     <ClCompile Include="pointer.cpp" />
     <ClCompile Include="pointer练习.cpp" />
     <ClCompile Include="type transefer.cpp" />
     <ClCompile Include="typetransfer.cpp" />
     <ClCompile Include="vardetil.cpp" />
+    <ClCompile Include="常量定义细节.cpp" />
+    <ClCompile Include="常量定义细节2.cpp" />
     <ClCompile Include="练习1.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="resource1.h" />
+    <ClInclude Include="resource2.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Project001.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
