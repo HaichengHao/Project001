@@ -16,6 +16,12 @@
     <Filter Include="源文件\chapter03">
       <UniqueIdentifier>{88a92066-8e8b-4ff4-9599-ce0da5f16eea}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\for zl">
+      <UniqueIdentifier>{53cc2020-da6a-4645-89a5-77333cadaf8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\chapter04">
+      <UniqueIdentifier>{f66f9ba3-394d-4361-8443-53ced873fb31}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="demo1.cpp">
@@ -51,11 +57,48 @@
     <ClCompile Include="pointer.cpp">
       <Filter>源文件\chapter03</Filter>
     </ClCompile>
-    <ClCompile Include="just for my ZL.cpp">
-      <Filter>源文件\chapter03</Filter>
-    </ClCompile>
     <ClCompile Include="pointer练习.cpp">
       <Filter>源文件\chapter03</Filter>
     </ClCompile>
+    <ClCompile Include="loveZL.cpp">
+      <Filter>源文件\chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="lovecl.cpp">
+      <Filter>源文件\for zl</Filter>
+    </ClCompile>
+    <ClCompile Include="homework.cpp">
+      <Filter>源文件\chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise03.cpp">
+      <Filter>源文件\chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="1(常量）const01.cpp">
+      <Filter>源文件\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="2.(define定义常量).cpp">
+      <Filter>源文件\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="3（const定义常量).cpp">
+      <Filter>源文件\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="常量定义细节.cpp">
+      <Filter>源文件\chapter04</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Project001.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
   </ItemGroup>
 </Project>
