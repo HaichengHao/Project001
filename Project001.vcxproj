@@ -144,6 +144,7 @@
     <ClCompile Include="3（const定义常量).cpp" />
     <ClCompile Include="4arithmetic(算数运算符).cpp" />
     <ClCompile Include="5(operator关系运算符).cpp" />
+    <ClCompile Include="6（logicOrperator逻辑运算符).cpp" />
     <ClCompile Include="booldemo.cpp" />
     <ClCompile Include="chardemo.cpp" />
     <ClCompile Include="demo1.cpp" />

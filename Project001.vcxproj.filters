@@ -16,11 +16,11 @@
     <Filter Include="源文件\chapter03">
       <UniqueIdentifier>{88a92066-8e8b-4ff4-9599-ce0da5f16eea}</UniqueIdentifier>
     </Filter>
-    <Filter Include="源文件\for zl">
-      <UniqueIdentifier>{53cc2020-da6a-4645-89a5-77333cadaf8f}</UniqueIdentifier>
-    </Filter>
     <Filter Include="源文件\chapter04">
       <UniqueIdentifier>{f66f9ba3-394d-4361-8443-53ced873fb31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\chapter04\for zl">
+      <UniqueIdentifier>{53cc2020-da6a-4645-89a5-77333cadaf8f}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -64,7 +64,7 @@
       <Filter>源文件\chapter03</Filter>
     </ClCompile>
     <ClCompile Include="lovecl.cpp">
-      <Filter>源文件\for zl</Filter>
+      <Filter>源文件\chapter04\for zl</Filter>
     </ClCompile>
     <ClCompile Include="homework.cpp">
       <Filter>源文件\chapter03</Filter>
@@ -91,6 +91,9 @@
       <Filter>源文件\chapter04</Filter>
     </ClCompile>
     <ClCompile Include="5(operator关系运算符).cpp">
+      <Filter>源文件\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="6（logicOrperator逻辑运算符).cpp">
       <Filter>源文件\chapter04</Filter>
     </ClCompile>
   </ItemGroup>
