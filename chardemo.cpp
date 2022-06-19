@@ -2,6 +2,8 @@
 //void main() {
 //	char c1 = 97;
 //	char c2 = 98;
+//	char c8 = 48;
+//	printf("c8 = %c\n", c8);
 //	//这时我们以%c输出时，就会安装ASCII编码（理解，字符<==>数字的对应关系）对应的97对应字符输出
 //	char c3 = 99;
 //	char c4 = 'd'; //对应ASCII的100
